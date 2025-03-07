@@ -1,0 +1,35 @@
+Crawled URL: https://upskill.teachnook.com/
+============================================================
+URL: https://upskill.teachnook.com
+No parameters found
+------------------------------------------------------------
+URL: https://upskill.teachnook.com/courses
+No parameters found
+------------------------------------------------------------
+URL: https://upskill.teachnook.com/#loginOffcanvas
+No parameters found
+------------------------------------------------------------
+URL: https://upskill.teachnook.com/myaccount/
+No parameters found
+------------------------------------------------------------
+URL: mailto: dummy@edmingle.com
+No parameters found
+------------------------------------------------------------
+URL: https://upskill.teachnook.com/
+No parameters found
+------------------------------------------------------------
+URL: https://upskill.teachnook.com/forgot-password
+No parameters found
+------------------------------------------------------------
+URL: https://upskill.teachnook.com/terms-and-conditions
+No parameters found
+------------------------------------------------------------
+URL: https://upskill.teachnook.com/privacy-policy
+No parameters found
+------------------------------------------------------------
+URL: https://upskill.teachnook.com/refund-cancellation
+No parameters found
+------------------------------------------------------------
+URL: https://upskill.teachnook.com/contact-us
+No parameters found
+------------------------------------------------------------
